@@ -1,6 +1,6 @@
 ***No lo lamentes, sé mejor. - Atreus***  
 
-![Imagen loading separador](loading.png)
+![Imagen loading separador](https://github.com/navfer/navfer/blob/main/loading.jpg)
 
 Amante del mango loco y de la resolución de problemas.  
 Estudiante de 2ºDAM buscando mi lenguaje de programación ideal.
