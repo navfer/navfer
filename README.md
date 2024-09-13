@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Amante del mango loco y de la resolución de problemas.  
+Estudiante de 2ºDAM buscando mi lenguaje de programación ideal.
 <!--
 **navfer/navfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
