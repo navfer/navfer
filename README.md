@@ -4,7 +4,7 @@
 
   
 Amante del mango loco y de la resolución de problemas.  
-Estudiante de 2ºDAM buscando mi lenguaje de programación ideal.  
+
 
 
 <!--
