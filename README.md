@@ -1,4 +1,4 @@
-![Imagen loading separador](https://github.com/navfer/navfer/blob/main/loading.jpg)  
+![Imagen loading separador](https://github.com/navfer/navfer/blob/main/int.jpg)  
 
 ***No lo lamentes, sé mejor. - Atreus***  
 
