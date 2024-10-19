@@ -1,25 +1,20 @@
-***<<Represento aquello que nunca has podido matar, no importa cuánto lo hayas intentado. Yo soy la esperanza.>> - Kelsier***  
-
-![Imagen loading separador](https://github.com/navfer/navfer/blob/main/gravityfalls.jpg)  
-
-
-
+<!-- Presentación y banner -->
+<div align = "center">
+    <h1>¡Hola a todos!, soy Phoenix </h1>
   
-Amante del mango loco y de la resolución de problemas.  
+</div>
+<br>
 
+<!-- Sobre mi -->
+## Sobre mí  
+- Soy `estudiante` de segundo año de DAM.
+- Aprendiendo actualmente **Kotlin** y **Java.**
+- Portfolio: (Próximamente)
+- PD: Amo los girasoles y los cactus.
 
-
-<!--
-**navfer/navfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="center">
+<a href="https://github.com/navfer">
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navfer&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true"/>
+  </a>
+</p>
