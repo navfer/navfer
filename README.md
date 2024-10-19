@@ -1,7 +1,7 @@
 <!-- Presentación y banner -->
 <div align = "center">
     <h1>¡Hola a todos!, soy Phoenix </h1>
-    ![Texto alternativo]()
+    <img src= "https://github.com/navfer/navfer/blob/main/fuji.jpg">
 </div>
 <br>
 
