@@ -1,7 +1,8 @@
+***<<Represento aquello que nunca has podido matar, no importa cuánto lo hayas intentado. Yo soy la esperanza.>> - Kelsier***  
 
 ![Imagen loading separador](https://github.com/navfer/navfer/blob/main/gravityfalls.jpg)  
 
-***Represento aquello que nunca has podido matar, no importa cuánto lo hayas intentado. Yo soy la esperanza. - Kelsier***  
+
 
   
 Amante del mango loco y de la resolución de problemas.  
