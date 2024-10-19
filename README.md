@@ -1,7 +1,7 @@
 <!-- Presentación y banner -->
 <div align = "center">
     <h1>¡Hola a todos!, soy Phoenix </h1>
-  
+    ![Texto alternativo]()
 </div>
 <br>
 
