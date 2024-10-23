@@ -10,7 +10,7 @@
 - Soy `estudiante` de segundo año de DAM.
 - Aprendiendo actualmente **Kotlin** y **Java.**
 - Portfolio: (Próximamente)
-- PD: Amo los girasoles y los cactus.
+- Fun fact: Amo los girasoles y los cactus.
 
 <br>
 <p align="center">
