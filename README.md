@@ -6,7 +6,7 @@
 <br>
 
 <!-- Sobre mi -->
-## Sobre mí  
+# Sobre mí  
 - Soy `estudiante` de segundo año de DAM.
 - Aprendiendo actualmente **Kotlin** y **Java.**
 - Portfolio: (Próximamente)
