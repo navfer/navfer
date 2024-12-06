@@ -12,5 +12,17 @@
 - Portfolio: (Próximamente)
 - Fun fact: Amo los girasoles y los cactus.
 
-<br>
+<!--Tecnologías utilizadas -->
+<br>    
+
+# Tech Stack:  
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<!--Porcentaje lenguajes -->
+<br>    
+
+# GitHub Stats:  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=navfer&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
