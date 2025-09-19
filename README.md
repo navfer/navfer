@@ -8,6 +8,7 @@
 <!-- Sobre mi -->
 # About Me! 
 - Graduate in Multiplatform Application Development.
+- Experience as a fullstack developer.
 - Currently working with **React** and practising **Kotlin.**
 
 <!--Tecnologías utilizadas -->
