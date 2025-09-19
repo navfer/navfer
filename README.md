@@ -1,6 +1,6 @@
 <!-- Presentación y banner -->
 <div align = "center">
-    <h1>Willkommen</h1>
+    <h1>< Willkommen /></h1>
     <img src= "https://github.com/navfer/navfer/blob/main/fuji.jpg">
 </div>
 <br>
