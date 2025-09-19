@@ -10,6 +10,7 @@
 - Graduate in Multiplatform Application Development.
 - Experience as a fullstack developer.
 - Currently working with **React** and practising **Kotlin.**
+- Continuously improving my language skills!
 
 <!--Tecnologías utilizadas -->
 <br>    
